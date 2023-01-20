@@ -12,7 +12,7 @@ fawef
 `/reset` will reset the data in the database with a load of:
  - usersasdf
  - jokes
- - heckles
+ - hecklesasdf
   fawef
 `/feed` shows the jokes/heckles that are relevant to the current user.
 
