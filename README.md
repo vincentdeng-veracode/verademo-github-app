@@ -6,7 +6,7 @@ Blab-a-Gag is a fairly simple forum type application which allows:
  - users to post a one-liner joke
  - users to follow the jokes of other users or not (listen or ignore)
  - users to comment on othefawefr users messages (heckle)
- awfefawefafwe
+ awfefawefafweawfe
 ### URLsafwefawefawefafwe
 awef
 `/reset` will reset the data in the database with a load of:afwe
