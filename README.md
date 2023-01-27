@@ -9,7 +9,7 @@ Blab-a-Gag is a fairly simple forum type application which allows:
  awfefawefafwe
 ### URLsafwefawefawef
 awef
-`/reset` will reset the data in the database with a load of:
+`/reset` will reset the data in the database with a load of:afwe
  - users
  - jokes
  - hecklesawfewf
