@@ -12,7 +12,7 @@ afwe
 `/reset` will reset the data in the database with a load of:
  - users
  - jokesafwe
- - heckles
+ - hecklesafwef
   safe
 `/feed` shows the jokes/heckles that are relevant to the current user.
 
