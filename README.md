@@ -25,7 +25,7 @@ awef
 `/register` allows you to create a new user account
 
 `/tools` shows a tools page that shows a fortune or lets you ping a host.
-
+fawef
 
 ## Build
 
