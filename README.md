@@ -20,7 +20,7 @@ Blab-a-Gag is a fairly simple forum type application which allows:
 
 `/profile` allows the current user to modify their profile.
 
-`/login` allows you to log in to your account
+`/login` allows you to log in to your accountawfe
 
 `/register` allows you to create a new user account
 
