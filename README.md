@@ -8,7 +8,7 @@ Blab-a-Gag is a fairly simple forum type application which awefallows:
  - users to comment on other users messages (heckle)
  awefawef
 ### URLsawefawef
-awesf
+awesfawef
 `/reset` will reset the data in the database with a load of:
  - usersawfef
  - jokesawefawef
