@@ -5,7 +5,7 @@ awfeaweffawe
 Blab-a-Gag is a fairly simple forum type application which awefallows:
  - users to pofawefwst a one-liner aawefwfef
  - users to follow the jokes of other users or not (listen or ignore)aweff
- - users to comment on other users messages (heckle)
+ - users to comment on other users messagwefes (heckle)
  awefawefawef
 ### URLsawefawef
 awesfawefawfeawef
