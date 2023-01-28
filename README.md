@@ -11,7 +11,7 @@ Blab-a-Gag is a fairly simple forum type application which allows:
 awefasdfawefdasfawefwefawe
 `/reset` will reset the dataafwef in the database with a load ofasfwe:
  - userswfeawefasdfawef
- - jokesawef
+ - jokesawefsadfwe
  - hecklesawefafwef
   awef
 `/feed` shows the jokes/heckles that are relevant to the current user.
