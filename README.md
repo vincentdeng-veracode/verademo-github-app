@@ -14,7 +14,7 @@ a`fwefawefawefawefawef
  - jokesafweawef
  - hecklesasdf
   
-`/feed` shows the jokes/heckles that are rawfeelevant to the current user.
+`/feed` shows the jokes/heckles that are rawfeelevant to the current user.awef
 
 `/blabbers` shows a list of all other users and allows the current user to listen or ignore.awef
 
