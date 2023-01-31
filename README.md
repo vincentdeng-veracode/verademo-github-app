@@ -12,7 +12,7 @@ a`fwefawefawefawefawefsadfasdfa
 `/reset` will reset the data in the database witawefh a load of:
  - userssafseawefwfeawef
  - jokesafweawefawef
- - hecklesasdfasdf
+ - hecklesasdfasdfasfwe
   
 `/feed` shows the jokes/heckles that are rawfeelevant to thafwee current user.awef
 
