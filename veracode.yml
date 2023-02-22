@@ -16,6 +16,9 @@ veracode_sast_pipeline_scan:
   local_compliation_workflow: build.xml
 
 veracode_sast_policy_scan:
+  # Please only specify either branches_to_run or branches_to_exclude
+  # Entering both will only execute branches_to_run
+  # Leaving them both blank means this will never run
   branches_to_run:
     - main
   branches_to_exclude:
