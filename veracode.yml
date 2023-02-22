@@ -1,6 +1,6 @@
 veracode_sast_pipeline_scan:
   branches_to_run:
-    - feature/*
+    - features/*
   branches_to_exclude:
     - main
   break_build: true
