@@ -42,8 +42,6 @@ veracode_sca_scan:
   break_build: true
   create_issues: false
   os-image: 'os-image-name'
-  compile_locally: true
-  local_compilation_workflow: build.xml
 
 veracode_container_security_scan:
   # Please only specify either branches_to_run or branches_to_exclude
@@ -55,5 +53,3 @@ veracode_container_security_scan:
   break_build: true
   create_issues: false
   os-image: 'os-image-name'
-  compile_locally: true
-  local_compilation_workflow: build.xml
