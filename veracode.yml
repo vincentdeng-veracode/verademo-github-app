@@ -1,6 +1,8 @@
 veracode_sast_pipeline_scan:
+  # Please only specify either branches_to_run or branches_to_exclude
+  # Entering both will only execute branches_to_run
+  # Leaving them both blank means this will never run
   branches_to_run:
-    - feature/*
   branches_to_exclude:
     - main
   break_build: true
