@@ -15,7 +15,7 @@ Blab-a-Gag is a fairly simple forum type application which allows:
  - hecklesawef
   awefawef
 `/feed` shows the jokes/heckles that are relevant to the current user.
-awef
+awefsdaf
 `/blabbers` shows a list of all other users and allows the current user to listen or ignore.
 awef
 `/profile` allows the current user to modify their profile.
