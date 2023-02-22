@@ -17,7 +17,7 @@ awef
 `/feed` shows the jokes/heckles that are relevant awefto the current user.
 awefsdaf
 `/blabbers` shows a list of all other users and allows the current user to listen or ignore.
-awef
+awefafwe
 `/profile` allows the current user to modify their profile.
 
 `/login` allows you to log in to your account
