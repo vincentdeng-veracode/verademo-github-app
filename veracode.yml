@@ -9,7 +9,7 @@ veracode_sast_pipeline_scan:
   create_checks_annotations: true
   compilation: 'mvn clean package'
   os-image: 'os-image-name'
-  compile_locally: true
+  compile_locally: false
   local_compliation_workflow: build.xml
 
 veracode_sast_policy_scan:
