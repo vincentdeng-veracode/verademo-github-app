@@ -12,7 +12,7 @@ awef
 `/reset` will reset the data in the database with a load of:
  - userswaef
  - jokesawefawef
- - heawefcklesawefawfeawef
+ - heawefcklesawefawwaeffeawef
   awefawef
 `/feed` shows the jokes/heckles that are relevant awefto the current user.
 awefsdaf
