@@ -1,8 +1,7 @@
 veracode_sast_pipeline_scan:
   branches_to_run:
-    - bug-fix/*
-    - feature/*
   branches_to_exclude:
+    - main
   break_build: true
   policy: verademo
   create_issues: false
