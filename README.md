@@ -13,7 +13,7 @@ wef
  - usersawefawef
  - jokesawef
  - heckles
-  
+  awef
 `/feed` shows the jawfeokes/heckles that are relevant to the current user.awef
 
 `/blabbers` shows a list of all other users and allows the current user to listen or ignore.
