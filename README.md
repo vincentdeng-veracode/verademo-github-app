@@ -20,7 +20,7 @@ awef
 `/profile` allows the current user to modify their profile.
 lll
 `/login` allows you to log in to your account
-
+fawe
 `/register` allows you to create a new user account
 
 `/tools` shows a tools page that shows a fortune or lets you ping a host.
