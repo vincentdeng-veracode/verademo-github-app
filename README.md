@@ -18,7 +18,7 @@ awef
 `/blabbers` shows a list of all other users and allows the current user to listen or ignore.
 
 `/profile` allows the current user to modify their profile.
-lll
+lllawef
 `/login` allows you to log in to your account
 fawe
 `/register` allows you to create a new user account
